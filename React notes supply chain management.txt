@@ -1,0 +1,24 @@
+
+npx create-react-app supplychainmanagement
+cd supplychainmanagement
+
+
+
+Paste the src folder in the project and click replace all files
+
+
+
+Installing Dependencies
+
+npm i react-bootstrap bootstrap
+npm i react-notifications
+npm i md5
+npm i axios
+npm i async
+npm i react-router-dom
+npm i react-data-table-component
+npm i styled-components
+npm install react-scripts
+npm i sweetalert2-react --force
+npm i react-data-table-component
+npm i bootstrap-icons
